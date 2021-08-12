@@ -10,6 +10,7 @@ Now, you are ready to create user auth using knox where a token is generated for
 You need to install the following:  
 
 `pipenv install djangorestframework`  
+
 `pipenv install django-rest-knox`
 
 settings.py 
